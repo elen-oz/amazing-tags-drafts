@@ -7,7 +7,7 @@ Welcome to the official repository for the `<media-fill>` tag! This repository i
 
 ## How to Contribute
 
-We encourage contributions from the web development community to help shape and refine the <media-fill> tag. To get involved, please follow our contributor guidelines.
+We encourage contributions from the web development community to help shape and refine the <media-fill> tag. To get involved, please follow our [contributor guidelines](https://github.com/elen-oz/media-fill/blob/main/CONTRIBUTING.md).
 
 ## Specification Issues
 
