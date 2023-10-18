@@ -1,16 +1,25 @@
-# `<media-fill>` Tag Repository
+# Amazing Tags Drafts
 
-Welcome to the official repository for the `<media-fill>` tag! This repository is dedicated to the development and discussion of the `<media-fill>` tag, a groundbreaking HTML element designed to display animated text filled with media content, such as videos or pictures, on web pages.
+Welcome to the Amazing Tags Drafts Repository! This repository is dedicated to the development and standardization of innovative HTML tags that enhance web development. Here, you can find and contribute to various custom HTML tags like `<media-fill>`, and more.
+
+## Directory Structure
+
+The repository is organized into different directories, each dedicated to a specific custom HTML tag. Below, you can find a list of the available tags and their respective directories:
+
+- [`<media-fill>`](media-fill/README.md): An HTML tag for animated text filled with media content.
+<!-- - [`<custom-element>`](custom-element/README.md): Another HTML tag with its own unique features.
+- [More Tags](#): (Add more tags and links to their respective directories as needed) -->
 
 ## How to Contribute
 
-We encourage contributions from the web development community to help shape and refine the `<media-fill>` tag. To get involved, please follow our [contributor guidelines](https://github.com/elen-oz/media-fill/blob/main/CONTRIBUTING.md).
+Contributions to this repository are encouraged! To get started, please follow these general steps:
 
-## Specification Issues
+1. Browse the directories to find the custom HTML tag you want to contribute to.
+2. Review the README.md file in the tag's directory for specific contribution guidelines.
+3. Follow the guidelines provided for that tag.
+4. Create or contribute to issues and discussions related to the tag you're interested in.
+5. Make pull requests with your proposed changes.
 
-Specification-related discussions and issues are managed within this repository. If you have questions, feedback, or ideas regarding the `<media-fill>` tag, please open an issue for discussion.
+-------------
 
-
-## Viewing the Specifications
-
-To access the specifications related to the `<media-fill>` tag, you can refer to the index of all specifications in this repository.
+Thank you for your interest and contributions to the world of custom HTML tags!
