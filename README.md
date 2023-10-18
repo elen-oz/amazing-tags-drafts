@@ -1,6 +1,3 @@
-# media-fill
-The Media-Fill tag is a new HTML tag that allows developers to create animated text filled with media, such as videos or pictures, within a web page.
-
 # `<media-fill>` Tag Repository
 
 Welcome to the official repository for the `<media-fill>` tag! This repository is dedicated to the development and discussion of the `<media-fill>` tag, a groundbreaking HTML element designed to display animated text filled with media content, such as videos or pictures, on web pages.
