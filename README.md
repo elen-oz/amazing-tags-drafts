@@ -23,7 +23,7 @@ Contributions to this repository are encouraged! To get started, please follow t
 
 ------------
 *Please fill out the feedback survey, your opinion is important to us:*
-(Link to survey)[https://docs.google.com/forms/]
+[Link to survey](https://docs.google.com/forms/)
 
 
 -------------
