@@ -20,6 +20,12 @@ Contributions to this repository are encouraged! To get started, please follow t
 4. Create or contribute to issues and discussions related to the tag you're interested in.
 5. Make pull requests with your proposed changes.
 
+
+------------
+*Please fill out the feedback survey, your opinion is important to us:*
+(Link to survey)[https://docs.google.com/forms/]
+
+
 -------------
 
 Thank you for your interest and contributions to the world of custom HTML tags!
